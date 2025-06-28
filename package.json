@@ -1,0 +1,19 @@
+{
+  "name": "hidden-gem-python-libraries",
+  "version": "1.0.0",
+  "description": "A curated collection of hidden gem Python libraries for data science, AI/ML, and data cleaning",
+  "main": "index.js",
+  "scripts": {
+    "dev": "echo 'This is a documentation repository. Check out README.md for the library list!'",
+    "start": "echo 'This is a documentation repository. Check out README.md for the library list!'"
+  },
+  "keywords": [
+    "python",
+    "data-science",
+    "machine-learning",
+    "data-cleaning",
+    "libraries"
+  ],
+  "author": "",
+  "license": "MIT"
+}
