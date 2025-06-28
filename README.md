@@ -71,11 +71,3 @@ Enhanced debugging tool that shows both variable names and values. Makes debuggi
 **Why it's better:** Automatically includes variable names, function context, and timestamps. More informative than print() statements. Configurable output formatting and can be easily disabled in production.
 
 ---
-
-## 🤝 Contributing
-
-Found a hidden gem that should be included? Feel free to open an issue or submit a pull request!
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
