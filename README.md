@@ -69,5 +69,3 @@ Extract and reshape data from complex nested structures using intuitive path spe
 Enhanced debugging tool that shows both variable names and values. Makes debugging more informative and less tedious.
 
 **Why it's better:** Automatically includes variable names, function context, and timestamps. More informative than print() statements. Configurable output formatting and can be easily disabled in production.
-
----
